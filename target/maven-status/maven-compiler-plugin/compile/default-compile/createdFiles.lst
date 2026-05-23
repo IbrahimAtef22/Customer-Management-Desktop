@@ -1,0 +1,9 @@
+com\myprojects\customer\management\desktop\ui\CustomerTableModel.class
+com\myprojects\customer\management\desktop\ui\CustomerDialog$1.class
+com\myprojects\customer\management\desktop\ui\MainFrame.class
+com\myprojects\customer\management\desktop\ui\CustomerDialog.class
+com\myprojects\customer\management\desktop\ui\MainFrame$2.class
+com\myprojects\customer\management\desktop\ui\MainFrame$1.class
+com\myprojects\customer\management\desktop\client\CustomerApiClient.class
+com\myprojects\customer\management\desktop\CustomerManagementDesktop.class
+com\myprojects\customer\management\desktop\model\Customer.class
